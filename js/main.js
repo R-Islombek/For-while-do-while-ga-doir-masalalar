@@ -16,4 +16,12 @@
 //     console.log(sum);
 // }
 
+// 3-Masala;
 
+let a = Number(prompt(" a sonini kiriting "));
+yigindi = 0;
+
+for (let i = 0; i < a;  Math.pow(i++), 2 ) {
+      yigindi +=i;
+      console.log(yigindi);
+}
