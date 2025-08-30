@@ -25,10 +25,18 @@
 //       yigindi +=i;
 //       console.log(yigindi);
 // }
-let a = Number(prompt(" a sonini kiriting "));
+// let a = Number(prompt(" a sonini kiriting "));
+// yigindi = 0;
+
+// for (let i = 0; i < a;  Math.pow(i++), 2 ) {
+//       yigindi +=i;
+//       console.log(yigindi);
+// }
+
+let b = Number(prompt(" a sonini kiriting "));
 yigindi = 0;
 
-for (let i = 0; i < a;  Math.pow(i++), 2 ) {
+for (let i = 0; i < b;  Math.pow(i++), 2 ) {
       yigindi +=i;
       console.log(yigindi);
 }
