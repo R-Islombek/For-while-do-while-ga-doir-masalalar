@@ -32,11 +32,57 @@
 
 // 4-Masala;
 
-let n = prompt("n sonini kiriting"); 
-let S = 0;
+// let n = prompt("n sonini kiriting"); 
+// let S = 0;
 
-for (let i = 1; i <= n; i++) {
-  S += i ** (n - i + 1);
-}
+// for (let i = 1; i <= n; i++) {
+//   S += i ** (n - i + 1);
+// }
 
-console.log("Yig'indi:", S);
+// console.log("Yig'indi:", S);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// 5-Masala;
+
+// A va B butun soni berilgan (A < B). A va B sonlari orasidagi barcha butun sonlarni chiqaruvchi programma tuzilsin. Bunda har bir son o'zining qiymaticha chiqarilsin. Ya'ni 3 soni 3 marta chiqariladi.
+
+
+
