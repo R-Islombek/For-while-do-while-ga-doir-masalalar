@@ -19,24 +19,13 @@
 // 3-Masala;
 
 // let a = Number(prompt(" a sonini kiriting "));
-// yigindi = 0;
 
-// for (let i = 0; i < a;  Math.pow(i++), 2 ) {
-//       yigindi +=i;
-//       console.log(yigindi);
-// }
-// let a = Number(prompt(" a sonini kiriting "));
-// yigindi = 0;
 
-// for (let i = 0; i < a;  Math.pow(i++), 2 ) {
-//       yigindi +=i;
-//       console.log(yigindi);
+// let n = 3; 
+// let S = 0;
+
+// for (let i = n; i <= 2 * n; i++) {
+//   S += i * i;
 // }
 
-let b = Number(prompt(" a sonini kiriting "));
-yigindi = 0;
-
-for (let i = 0; i < b;  Math.pow(i++), 2 ) {
-      yigindi +=i;
-      console.log(yigindi);
-}
+// console.log("Yig'indi:", S);
