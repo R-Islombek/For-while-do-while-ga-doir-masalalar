@@ -42,7 +42,6 @@
 // console.log("Yig'indi:", S);
 
 
-let a = prompt("a sonini kiriting");
-let b = prompt("b sonini kiriting");
+// While1. N va K butun musbat sonlari berilgan. Faqat ayirish va qo'shish amallarini ishlatib N sonini K soniga bo'lgandagi qoldiq va butun qismini aniqlovchi programma tuzilsin.
 
 
