@@ -53,3 +53,16 @@
 // }
 // console.log(sum);
 
+// 6-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// let sum = 1;
+
+// for(let i = a; i <= b;  i++){
+//     sum *= i;
+// }
+
+// console.log("Ko'paytma=", sum);
+
