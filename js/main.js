@@ -42,10 +42,12 @@
 // console.log("Yig'indi:", S);
 
 
+let a = prompt("a sonini kiriting");
+let b = prompt("b sonini kiriting");
 
-
-
-
+for (let i = 0; i < b; i++) {
+    
+}
 
 
 
