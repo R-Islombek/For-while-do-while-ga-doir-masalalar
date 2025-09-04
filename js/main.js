@@ -113,3 +113,5 @@
 // S1 = π * r1
 // S2 = π * r2
 // S = π * (r1^2 − r2^2).
+
+// Begin10. A, B va C sonlari berilgan. A ni qiymati B ga, B ni qiymati C ga va C ni qiymati A ga almashtirilsin. A, B va C ning yangi qiymatilari ekranga chiqarilsin.
