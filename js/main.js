@@ -121,3 +121,7 @@
 
 //  A soni berilgan. A ning darajalarini aniqlovchi programma tuzilsin.
 // A^3‚ A^6‚ A^9, A^15
+
+
+// emperatura Tf (farengeyt) da berilgan. Temperatura qiymatini Tc (gradus selsiy) ga o`tkazuvchi programma tuzilsin. 
+// Tc = (Tf - 32) * 5/9
