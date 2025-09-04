@@ -105,3 +105,6 @@
 
 // Begin5. Ikkita son a va b berilgan. Ularning o`rta arifmetigi M aniqlansin.
 // M = (a + b) / 2
+
+// Begin6. To`gri uchburchakning katetlari a va b berilgan. Uning gipotenuzasi c va perimetri P aniqlansin.
+// c = a2+b2
