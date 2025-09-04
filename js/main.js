@@ -118,3 +118,6 @@
 
 // x ning qiymati berilganda y funksiyaning qiymati aniqlansin.
 // y = 4 * (x - 3)^6 - 7 * (x - 3)^3 + 2
+
+//  A soni berilgan. A ning darajalarini aniqlovchi programma tuzilsin.
+// A^3‚ A^6‚ A^9, A^15
