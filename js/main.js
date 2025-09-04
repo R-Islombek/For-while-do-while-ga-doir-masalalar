@@ -115,3 +115,6 @@
 // S = π * (r1^2 − r2^2).
 
 // Begin10. A, B va C sonlari berilgan. A ni qiymati B ga, B ni qiymati C ga va C ni qiymati A ga almashtirilsin. A, B va C ning yangi qiymatilari ekranga chiqarilsin.
+
+// x ning qiymati berilganda y funksiyaning qiymati aniqlansin.
+// y = 4 * (x - 3)^6 - 7 * (x - 3)^3 + 2
