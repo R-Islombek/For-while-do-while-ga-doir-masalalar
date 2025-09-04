@@ -108,3 +108,8 @@
 
 // Begin6. To`gri uchburchakning katetlari a va b berilgan. Uning gipotenuzasi c va perimetri P aniqlansin.
 // c = a2+b2
+
+// Begin7. Umumiy markazga bo`lgan ikkita aylana radiusi berilgan. r1, r2. (r1 > r2). Ularning yuzalari S1 va S2, ularning ayirmasi S aniqlansin.
+// S1 = π * r1
+// S2 = π * r2
+// S = π * (r1^2 − r2^2).
