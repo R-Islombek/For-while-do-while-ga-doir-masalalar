@@ -101,3 +101,7 @@
 // Begin4. Paralelepepidning tomonlari a, b, c berilgan. Uning hajmi Vni va to'la sirti Sni aniqlansin.
 // V = a * b * c
 // S = 2 * (a * b + b * c + a * c)
+
+
+// Begin5. Ikkita son a va b berilgan. Ularning o`rta arifmetigi M aniqlansin.
+// M = (a + b) / 2
