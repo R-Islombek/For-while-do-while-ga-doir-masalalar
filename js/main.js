@@ -134,3 +134,4 @@
 // . Uch xonali son berilgan. Uning raqamlar yig`indisini aniqlovchi programma tuzilsin.
 
 // Uch xonali son berilgan. Uning raqamlarini teskari tartibda yozishdan hosil bo`lgan sonni aniqlovchi program tuzilsin.
+// . Uch xonali son berilgan. Uning o`nliklar xonasidagi raqam bilan yuzliklar xonasidagi raqamni almashtirishdan hosil bo`lgan sonni aniqlovchi programma tuzilsin./
