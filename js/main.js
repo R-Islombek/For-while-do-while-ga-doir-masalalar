@@ -66,3 +66,38 @@
 
 // console.log("Ko'paytma=", sum);
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Begin4. Paralelepepidning tomonlari a, b, c berilgan. Uning hajmi Vni va to'la sirti Sni aniqlansin.
+// V = a * b * c
+// S = 2 * (a * b + b * c + a * c)
