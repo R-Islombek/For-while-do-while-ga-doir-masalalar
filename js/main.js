@@ -87,9 +87,8 @@
 
 // 2-Masala;
 
-let a = 3;
-let b = 10;
-
+let a = prompt("a sonini kiriting");
+let b = prompt("b sonini kiriting");
 let count = 0;
 
 for (let i = b - 1; i > a; i--) {
