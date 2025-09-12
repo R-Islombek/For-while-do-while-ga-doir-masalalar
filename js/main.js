@@ -55,16 +55,32 @@
 //   i++;
 // }
 
-let N = 23;
-let K = 5;
+// let N = 23;
+// let K = 5;
 
-let qism = 0; 
-let qoldiq = N;
+// let qism = 0; 
+// let qoldiq = N;
 
-while (qoldiq >= K) {
-  qoldiq = qoldiq - K; 
-  qism = qism + 1;     
-}
+// while (qoldiq >= K) {
+//   qoldiq = qoldiq - K; 
+//   qism = qism + 1;     
+// }
 
-console.log("Butun qism:", qism);
-console.log("Qoldiq:", qoldiq);
+// console.log("Butun qism:", qism);
+// console.log("Qoldiq:", qoldiq);
+
+
+
+
+
+
+// Uyga vazifa qilinishi;
+
+// 1-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// for(let i = a; i < b; i ++){
+//       console.log(i);     
+// }
