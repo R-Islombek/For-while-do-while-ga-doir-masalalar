@@ -162,3 +162,11 @@
 // }
 
 // console.log("Yig'indi S =", S);
+
+// 9-Masala;
+
+let a = prompt("a sonini kiriting");
+
+for(let i = 0; i < a ; i++){
+    
+}
