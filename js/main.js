@@ -30,11 +30,21 @@
 
 // 4-Masala;
 
-let N = 5;
-let sum = 0;
+// let N = 5;
+// let sum = 0;
 
-for (let i = 1; i <= N; i++) {
-  sum += i ** (N + 1 - i);
-}
+// for (let i = 1; i <= N; i++) {
+//   sum += i ** (N + 1 - i);
+// }
 
-console.log(sum);
+// console.log(sum);
+
+// 5-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let sum = 0  
+// for (let i = a; i < b; i++) {
+//      console.log(i);      
+// }
+
