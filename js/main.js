@@ -87,13 +87,23 @@
 
 // 2-Masala;
 
-let a = prompt("a sonini kiriting");
-let b = prompt("b sonini kiriting");
-let count = 0;
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let count = 0;
 
-for (let i = b - 1; i > a; i--) {
-  console.log(i);
-  count++;
-}
+// for (let i = b - 1; i > a; i--) {
+//   console.log(i);
+//   count++;
+// }
 
-console.log("Chiqarilgan sonlar soni:", count);
+// console.log("Chiqarilgan sonlar soni:", count);
+
+// 3-Masala;
+
+// let a = prompt("a sonini kiriting");
+
+// for(let i = 1; i <= a; i++){
+//    let sum = 10;
+//        sum *=i;
+//        console.log(sum);
+// }
