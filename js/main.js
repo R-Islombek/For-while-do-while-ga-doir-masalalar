@@ -84,3 +84,17 @@
 // for(let i = a; i < b; i ++){
 //       console.log(i);     
 // }
+
+// 2-Masala;
+
+let a = 3;
+let b = 10;
+
+let count = 0;
+
+for (let i = b - 1; i > a; i--) {
+  console.log(i);
+  count++;
+}
+
+console.log("Chiqarilgan sonlar soni:", count);
