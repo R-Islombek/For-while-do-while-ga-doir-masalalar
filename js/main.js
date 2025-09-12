@@ -165,9 +165,10 @@
 
 // 9-Masala;
 
-let a = prompt("a sonini kiriting");
+// let n = prompt("n sonini kiriting");
 
-for(let i = 0; i < a ; i++){
-    let sum = 11
-    
-}
+// let S = 1;
+// for (let i = 1; i < n ; i+=0.1){
+//     S*=i;
+//     console.log(S);
+// }
