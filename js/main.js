@@ -169,5 +169,5 @@ let a = prompt("a sonini kiriting");
 
 for(let i = 0; i < a ; i++){
     let sum = 9
-    let u =10
+    
 }
