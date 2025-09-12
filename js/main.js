@@ -107,3 +107,22 @@
 //        sum *=i;
 //        console.log(sum);
 // }
+
+// 4-Masala;
+
+
+
+
+
+// 5-Masala;
+
+// let a = Number(prompt("a sonini kiriting"));
+// let b = Number(prompt("b sonini kiriting"));
+
+// let sum = 0;
+
+// for (let i = a; i <= b; i++) {
+//   sum += i;
+// }
+
+// console.log("Yig'indi:", sum);
