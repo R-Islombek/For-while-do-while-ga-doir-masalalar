@@ -168,6 +168,6 @@
 let a = prompt("a sonini kiriting");
 
 for(let i = 0; i < a ; i++){
-    let sum = 14
+    let sum = 11
     
 }
