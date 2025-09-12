@@ -185,3 +185,25 @@
 
 // console.log("Yig'indi =", sum);
 // console.log("n^2 =", n * n);
+
+// 11-Masala;
+
+// let n = prompt("n sonini kiriting");
+
+// for(let i = 0; i < a**n ; i++){
+    
+// }
+
+
+// 12-Masala;
+
+let a = Number(prompt("a sonini kiriting:"));
+let n = Number(prompt("n sonini kiriting:"));
+
+let natija = 1;
+
+for (let i = 0; i < n; i++) {
+  natija = natija * a;
+}
+
+console.log(natija);
