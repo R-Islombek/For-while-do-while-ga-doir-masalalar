@@ -172,3 +172,16 @@
 //     S*=i;
 //     console.log(S);
 // }
+
+// 10-Masala
+
+// let n = Number(prompt("n sonini kiriting"));
+
+// let sum = 0;
+
+// for (let i = 1; i <= 2 * n - 1; i += 2) {
+//   sum += i;
+// }
+
+// console.log("Yig'indi =", sum);
+// console.log("n^2 =", n * n);
