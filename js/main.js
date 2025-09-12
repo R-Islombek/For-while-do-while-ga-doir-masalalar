@@ -197,13 +197,19 @@
 
 // 12-Masala;
 
-let a = Number(prompt("a sonini kiriting:"));
-let n = Number(prompt("n sonini kiriting:"));
+// let a = Number(prompt("a sonini kiriting:"));
+// let n = Number(prompt("n sonini kiriting:"));
 
-let natija = 1;
+// let natija = 1;
 
-for (let i = 0; i < n; i++) {
-  natija = natija * a;
-}
+// for (let i = 0; i < n; i++) {
+//   natija = natija * a;
+// }
 
-console.log(natija);
+// console.log(natija);
+
+// 13-Masala;
+
+let a = prompt("a sonini kiriting");
+let b = prompt("b sonini kiriting");
+
