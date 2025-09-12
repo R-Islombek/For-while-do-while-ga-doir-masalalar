@@ -127,12 +127,26 @@
 
 // console.log("Yig'indi:", sum);
 
+// 6-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// sum = 1
+
+// for(let i = a;  i <= b; i++){
+//     sum *= i;
+//     console.log(sum);
+// }
+
+// 7-Masala;
+
 let a = prompt("a sonini kiriting");
 let b = prompt("b sonini kiriting");
 
-sum = 1
+let sum = 1
 
-for(let i = a;  i <= b; i++){
-    sum *= i;
+for(let i = a; i < b; i++){
+    sum+=i*i;
     console.log(sum);
 }
