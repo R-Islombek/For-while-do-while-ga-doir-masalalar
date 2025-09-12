@@ -168,5 +168,5 @@
 let a = prompt("a sonini kiriting");
 
 for(let i = 0; i < a ; i++){
-    sa
+    let sum = 9
 }
