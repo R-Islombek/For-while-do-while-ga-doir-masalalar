@@ -19,12 +19,22 @@
 
 // 3-Masala;
 
-let n = parseInt(prompt("n ni kiriting (n > 0):"));
+// let n = parseInt(prompt("n ni kiriting (n > 0):"));
 
-let S = 0;
-for (let i = n; i <= 2 * n; i++) {
-  S += i ** 2;
+// let S = 0;
+// for (let i = n; i <= 2 * n; i++) {
+//   S += i ** 2;
+// }
+
+// console.log("Natija:", S)
+
+// 4-Masala;
+
+let N = 5;
+let sum = 0;
+
+for (let i = 1; i <= N; i++) {
+  sum += i ** (N + 1 - i);
 }
 
-console.log("Natija:", S)
-
+console.log(sum);
