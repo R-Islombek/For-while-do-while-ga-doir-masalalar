@@ -48,3 +48,23 @@
 //      console.log(i);      
 // }
 
+// 6-Masala;
+
+// while (i < 10) {
+//   text += "The number is " + i;
+//   i++;
+// }
+
+let N = 23;
+let K = 5;
+
+let qism = 0; 
+let qoldiq = N;
+
+while (qoldiq >= K) {
+  qoldiq = qoldiq - K; 
+  qism = qism + 1;     
+}
+
+console.log("Butun qism:", qism);
+console.log("Qoldiq:", qoldiq);
