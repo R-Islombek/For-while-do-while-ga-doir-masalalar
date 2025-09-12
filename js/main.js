@@ -141,12 +141,24 @@
 
 // 7-Masala;
 
-let a = prompt("a sonini kiriting");
-let b = prompt("b sonini kiriting");
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
 
-let sum = 1
+// let sum = 1
 
-for(let i = a; i < b; i++){
-    sum+=i*i;
-    console.log(sum);
-}
+// for(let i = a; i < b; i++){
+//     sum+=Math.pow(i, 2);
+//     console.log(sum);
+// }
+
+// 8-Masala;
+
+// let n = Number(prompt("n sonini kiriting "));
+
+// let S = 0;
+
+// for (let i = 1; i <= n; i++) {
+//   S += 1 / i;
+// }
+
+// console.log("Yig'indi S =", S);
