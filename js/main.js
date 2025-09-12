@@ -126,3 +126,13 @@
 // }
 
 // console.log("Yig'indi:", sum);
+
+let a = prompt("a sonini kiriting");
+let b = prompt("b sonini kiriting");
+
+sum = 1
+
+for(let i = a;  i <= b; i++){
+    sum *= i;
+    console.log(sum);
+}
