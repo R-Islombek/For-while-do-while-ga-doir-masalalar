@@ -17,3 +17,14 @@
 //     console.log(sum);
 // }
 
+// 3-Masala;
+
+let n = parseInt(prompt("n ni kiriting (n > 0):"));
+
+let S = 0;
+for (let i = n; i <= 2 * n; i++) {
+  S += i ** 2;
+}
+
+console.log("Natija:", S)
+
